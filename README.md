@@ -90,11 +90,7 @@ git checkout development
   git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local branch to the remote repository.
 
-```terminal
-git push -u origin development
-```
 
 **8.** Create a Pull Request!
 
